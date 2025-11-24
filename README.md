@@ -3,3 +3,5 @@ Vila, Bourguignon and Quintino (2025). An extended bimodal beta distribution bas
 
 
 ORGANIZAÇÂO DOS CODIGOS e arquivos:
+
+
