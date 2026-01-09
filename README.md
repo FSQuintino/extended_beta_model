@@ -5,7 +5,7 @@ Vila, Quintino and Bourguignon (2026). An extended bimodal beta distribution bas
 
 ## Author Information
 
-- **Roberto Vila**: [Scopus]<https://www.scopus.com/authid/detail.uri?authorId=56924856000&origin=AuthorProfile>,
+- **Roberto Vila**: [Scopus]([./1-dados](https://www.scopus.com/authid/detail.uri?authorId=56924856000&origin=AuthorProfile)) <https://www.scopus.com/authid/detail.uri?authorId=56924856000&origin=AuthorProfile>,
   [Orcid]<https://orcid.org/0000-0003-1073-0114>,
   [Google Scholar]<https://scholar.google.com/citations?hl=en&user=-u38Si8AAAAJ&view_op=list_works&sortby=pubdate>
 - **Felipe Quintino** <https://www.scopus.com/authid/detail.uri?authorId=57604163400> <https://orcid.org/0000-0003-0286-0541> <https://scholar.google.com/citations?user=BY-KytEAAAAJ&hl=en&oi=ao>
