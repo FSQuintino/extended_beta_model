@@ -7,8 +7,8 @@ Vila, Quintino and Bourguignon (2026). An extended bimodal beta distribution bas
 
 - **Roberto Vila**: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56924856000&origin=AuthorProfile), [Orcid](https://orcid.org/0000-0003-1073-0114),
   [Google Scholar](https://scholar.google.com/citations?hl=en&user=-u38Si8AAAAJ&view_op=list_works&sortby=pubdate)
-- **Felipe Quintino** <https://www.scopus.com/authid/detail.uri?authorId=57604163400> <https://orcid.org/0000-0003-0286-0541> <https://scholar.google.com/citations?user=BY-KytEAAAAJ&hl=en&oi=ao>
-- **Marcelo Bourguignon**: <https://www.scopus.com/authid/detail.uri?authorId=55372187300&origin=AuthorProfile>, <https://orcid.org/0000-0002-1182-5193>
+- **Felipe Quintino** [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57604163400), [Orcid](https://orcid.org/0000-0003-0286-0541), [Google Scholar](https://scholar.google.com/citations?user=BY-KytEAAAAJ&hl=en&oi=ao)
+- **Marcelo Bourguignon**: [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55372187300&origin=AuthorProfile), [Orcid](https://orcid.org/0000-0002-1182-5193), [Google Scholar](https://scholar.google.com/citations?user=px50wRYAAAAJ&hl=en&oi=ao)
 
 
 ## Repository Structure
@@ -23,9 +23,9 @@ Vila, Quintino and Bourguignon (2026). An extended bimodal beta distribution bas
 
 ## Requirements
 
-- R (version ≥ 4.0 recommended)
-- Required R packages: ggplot2, dplyr
+- R (version ≥ 4.5 recommended)
+- Required R packages: gsl, MASS, latex2exp, AdequacyModel, goftest
 
 ## Citation
 
-If you use these codes in your work, please cite the original paper: LINK
+If you use these codes in your work, please cite the original paper: **COLOCAR LINK DO ARXIV**
