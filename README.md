@@ -13,13 +13,13 @@ Vila, Quintino and Bourguignon (2026). An extended bimodal beta distribution bas
 
 ## Repository Structure
 
-📄 [01_plots](./01- PDF plots) # Basic codes for PDF plots
+📄 [01_plots](./01-PDF_plots) # Basic codes for PDF plots
 
-📄 [02_estimation](./02 - Estimation) # Parameter estimation methods for EB model
+📄 [02_estimation](./02-Estimation) # Parameter estimation methods for EB model
 
-📄 [03_modeling](./03 - Modelling) # Data modeling scripts (requires 01 and 02)
+📄 [03_modeling](./03-Modelling) # Data modeling scripts (requires 01 and 02)
 
-📄 [04_data](./04 - Dataset) # rfam08 and risfam08 datasets
+📄 [04_data](./04-Dataset) # rfam08 and risfam08 datasets
 
 ## Requirements
 
