@@ -28,4 +28,5 @@ Vila, Quintino and Bourguignon (2026). An extended bimodal beta distribution bas
 
 ## Citation
 
-If you use these codes in your work, please cite the original paper: **COLOCAR LINK DO ARXIV**
+If you use these codes in your work, please cite the original paper: 
+Vila, R., Quintino, F. and Bourguignon, M., 2026. Modeling double bounded data based on correlated gamma random variables. arXiv preprint arXiv:2603.02566.
