@@ -13,7 +13,8 @@ Vila, Quintino and Bourguignon (2026). Modeling double bounded data based on cor
 
 ## Repository Structure
 
-📄 [01_plots](./01-PDF_plots) # Basic codes for PDF plots
+📄 [01_plots](./01-Dataset) # rfam08 and risfam08 datasets
+ Basic codes for PDF plots
 
 📄 [02_estimation](./02-Estimation) # Parameter estimation methods for EB model
 
