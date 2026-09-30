@@ -28,4 +28,4 @@ Vila, Quintino and Bourguignon (2026). Modeling double bounded data based on cor
 ## Citation
 
 If you use these codes in your work, please cite the original paper: 
-Vila, R., Quintino, F. and Bourguignon, M., 2026. Modeling double bounded data based on correlated gamma random variables. arXiv preprint arXiv:2603.02566.
+Vila, R., Quintino, F. & Bourguignon, M. Modeling double bounded data based on correlated gamma random variables. Qual Quant (2026). https://doi.org/10.1007/s11135-026-03095-0
