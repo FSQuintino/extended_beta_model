@@ -1,7 +1,7 @@
 ## Overview
 
 This page provides the codes for generating random variables, estimation, and data fitting used in 
-Vila, Quintino and Bourguignon (2026). Modeling double bounded data based on correlated gamma random variables. Preprint.
+Vila et al. (2026). Modeling double bounded data based on correlated gamma random variables. Qual Quant. https://doi.org/10.1007/s11135-026-03095-0
 
 ## Author Information
 
@@ -28,4 +28,4 @@ Vila, Quintino and Bourguignon (2026). Modeling double bounded data based on cor
 ## Citation
 
 If you use these codes in your work, please cite the original paper: 
-Vila, R., Quintino, F. & Bourguignon, M. Modeling double bounded data based on correlated gamma random variables. Qual Quant (2026). https://doi.org/10.1007/s11135-026-03095-0
+Vila, R., Quintino, F. and Bourguignon, M. Modeling double bounded data based on correlated gamma random variables. Qual Quant (2026). https://doi.org/10.1007/s11135-026-03095-0
